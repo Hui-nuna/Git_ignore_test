@@ -31,7 +31,7 @@ public class Assume_unchanged_8 {
 		System.out.println("==== Assume_unchanged_8.java 파일입니다. ===="); 
 		System.out.println("==== Assume_unchanged_8.java 수정합니다. ===="); 
 		System.out.println("==== Assume_unchanged_8.java 또 수정합니다. ===="); 
-		System.out.println("==== Assume_unchanged_8.java 완료합니다. ===="); 
+		System.out.println("==== Assume_unchanged_8.java 완료합니다!. ===="); 
 
 
 	}
